@@ -80,4 +80,4 @@ var dimDal = dim + dal;
 // console.log(parseFloat(dimDal.toFixed(1)));
 dimDal = dimDal.toFixed(1);
 dimDal = parseFloat(dimDal);
-console.log(dimDal);
+// console.log(dimDal);
